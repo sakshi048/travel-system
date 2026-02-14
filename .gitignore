@@ -1,0 +1,17 @@
+# Compiled files 
+*.class 
+/build/ 
+/classes/ 
+built-jar.properties 
+ 
+# NetBeans IDE files 
+/nbproject/private/ 
+/nbproject/build-impl.xml 
+/nbproject/genfiles.properties 
+/nbproject/project.properties 
+/nbproject/project.xml 
+*.nbattrs 
+ 
+# OS metadata 
+.DS_Store 
+Thumbs.db 
